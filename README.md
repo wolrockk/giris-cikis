@@ -1,1 +1,1 @@
-# Ewing Discord V13 Boş altyapı
+Giriş-çıkış botu
