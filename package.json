@@ -1,0 +1,21 @@
+{
+  "name": "Ewing V13 Bos Altyapi",
+  "version": "3.0.0",
+  "description": "Ewing V13 Bos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Ewing",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "16.6.0"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^13.5.1"
+  }
+}
